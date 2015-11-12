@@ -2,7 +2,7 @@ class March < Formula
   desc "a go deployment tool written in ruby"
   homepage "https://github.com/dslysenko/march"
   url "https://github.com/dslysenko/march/archive/0.2.tar.gz"
-  sha256 "a4954af8d60e359a6d15b91b53d73dd760b1b07fd04bfe02f8167d2dc6491487"
+  sha256 "d01ee74be395b1d9cbf12edce475bb4981584650e38ba54ec4b35b264479854b"
   version '0.2'
 
   depends_on ruby: '2.1'
